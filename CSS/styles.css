@@ -1,0 +1,150 @@
+a{
+    margin:10px 20px;
+}
+a:hover{
+    color:white;
+}
+body{
+    text-align: center;
+    margin:0px;
+    color:#40514e;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom:12px;
+}
+.btn{
+   text-decoration: none;
+    background-color:#66bfbf;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    color:white;
+}
+.btn:hover{
+    background-color:#11698e;
+}
+.contact-des{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.contact-des2{
+    margin-top:20px;
+    margin-bottom: 40px;
+    width:40%;
+    margin:20px auto 40px auto; 
+}
+.copyright{
+    font-size: 0.8em;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size:5.625em;
+    margin: 85px auto 0 auto;
+    color:#66BFBF;
+    line-height: 2;
+}
+.top-cloud{
+    display: inline-block;
+    position: relative;
+    top:70px;
+    left:360px;
+} 
+.desc{
+    font-size:2em;
+    color:#66BFBF;
+}
+h2{
+    color:#66BFBF;
+}
+span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+a{
+    color:#11999e;
+}
+h3{
+    color:#11999E;
+}
+.bottom-cloud{
+display: inline-block;
+bottom:300px;
+position:relative;
+}
+.footballp{
+    line-height: 2
+}
+.footer-link{
+    color:#11999e;
+    text-decoration: none;
+}
+.mountain{
+    display: inline-block;
+    position:relative;
+    right:50px;
+}
+.middle-container{
+    padding:50px 0 10px 0;
+}
+.one{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:9px;
+    color: #eaf6f6;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.two{
+    margin-top:140px;
+    margin-bottom: 80px;
+}
+.profile{
+    width:50%;
+    margin:0 auto 0 auto;
+}
+.profile-desc{
+    color:#40514e;
+}
+.prog2{
+    line-height: 2;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+}
+.logo{
+    width:200px;
+    height:200px;
+}
+.skill-row{
+    
+}
+.top-container{
+    background-color: #eaf6f6;
+}
+.two{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:9px;
+    color: #eaf6f6;
+}
+.football{
+    width:200px;
+    height:200px;
+    float:left;
+    margin-right: 30px;
+}
+.programmer{
+    width:200px;
+    height:200px;
+    float:right;
+    margin-left: 30px;
+}
+/*span{
+    display: none;
+}
